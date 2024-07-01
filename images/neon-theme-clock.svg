@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
-  <rect width="300" height="200" fill="black"/>
-  <text x="150" y="100" fill="#00ff00" font-family="Courier" font-size="36" text-anchor="middle">12:30:45</text>
-  <text x="150" y="130" fill="#00ff00" font-family="Courier" font-size="14" text-anchor="middle">Monday, July 1</text>
-  <text x="150" y="180" fill="#ff00ff" font-family="Arial" font-size="14" text-anchor="middle">Neon Theme</text>
-</svg>
