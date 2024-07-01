@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200">
+  <rect width="300" height="200" fill="#1F2937"/>
+  <circle cx="75" cy="100" r="60" fill="none" stroke="white" stroke-width="2"/>
+  <line x1="75" y1="100" x2="75" y2="55" stroke="white" stroke-width="2"/>
+  <line x1="75" y1="100" x2="110" y2="100" stroke="white" stroke-width="2"/>
+  <text x="225" y="110" fill="white" font-family="Arial" font-size="24" text-anchor="middle">12:30:45</text>
+  <text x="225" y="140" fill="white" font-family="Arial" font-size="14" text-anchor="middle">Monday, July 1</text>
+  <text x="150" y="180" fill="white" font-family="Arial" font-size="14" text-anchor="middle">Default Theme</text>
+</svg>
