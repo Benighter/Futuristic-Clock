@@ -18,19 +18,19 @@ The Advanced Interactive Clock is a highly customizable React component that dis
 ## Theme Previews
 
 ### Default Theme
-![Default Theme](./images/default-theme-clock.svg)
+![Default Theme](./images/default-theme-clock.png)
 
 ### Neon Theme
-![Neon Theme](./images/neon-theme-clock.svg)
+![Neon Theme](./images/neon-theme-clock.png)
 
 ### Sunset Theme
-![Sunset Theme](./images/sunset-theme-clock.svg)
+![Sunset Theme](./images/sunset-theme-clock.png)
 
 ### Underwater Theme
-![Underwater Theme](./images/underwater-theme-clock.svg)
+![Underwater Theme](./images/underwater-theme-clock.png)
 
 ### Space Theme
-![Space Theme](./images/space-theme-clock.svg)
+![Space Theme](./images/space-theme-clock.png)
 
 ## Installation
 
